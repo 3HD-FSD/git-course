@@ -11,6 +11,7 @@ int main()
     AddTask();
     DeleteTask();
     EditTask();
+    RenameTask();
 
     return 0;
 }

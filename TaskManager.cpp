@@ -22,3 +22,8 @@ void EditTask()
 {
     cout << "Task edited successfully." << endl;
 }
+
+void RenameTask()
+{
+    cout << "Task renamed successfully." << endl;
+}
